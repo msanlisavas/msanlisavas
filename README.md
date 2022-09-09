@@ -9,17 +9,21 @@
 
 - 🔭 I’m currently working on [Crypto Currency Analyser and Broker Project](https://cryptorbix.com)
 
+- 🌱 I’m currently open for **startups**
+
 - 👯 I’m currently working on [Transportation Management System](https://nakliyedefter.com)
 
 - 🤝 I also worked on [Online Therapy Platform](https://areekaweb.com)
 
 - 📝 I regularly write articles on [https://itguytec.com](https://itguytec.com)
 
-- ⚡ Hobby (Always open for a chess match in Ankara)
+- ♕ Hobby [Always open for a chess match in Ankara](Always open for a chess match in Ankara)
 
 - 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security**
 
 - 📫 How to reach me **muratsanlisavas@gmail.com**
+
+- 🕶️ I'm also a [Bug Bount Hunter](Bug Bount Hunter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
