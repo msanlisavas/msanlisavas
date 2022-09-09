@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [https://itguytec.com](https://itguytec.com)
 
-- ♕ Hobby [Always open for a chess match in Ankara](Always open for a chess match in Ankara)
+- ♕ Hobby Always open for a chess match in Ankara
 
 - 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security**
 
 - 📫 How to reach me **muratsanlisavas@gmail.com**
 
-- 🕶️ I'm also a [Bug Bount Hunter](Bug Bount Hunter)
+- 🕶️ I'm also a Bug Bount Hunter (earned more than 10k$)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
