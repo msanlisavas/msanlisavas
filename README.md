@@ -19,7 +19,7 @@
 
 - ♕ Hobby Always open for a chess match in Ankara
 
-- 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security**
+- 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security, linux, windows**
 
 - 📫 How to reach me **muratsanlisavas@gmail.com**
 
