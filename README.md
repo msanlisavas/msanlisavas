@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://itguytec.com](https://itguytec.com)
 
-- ⚡ Hobby [Always open for a chess match in Ankara](Always open for a chess match in Ankara)
+- ⚡ Hobby (Always open for a chess match in Ankara)
 
 - 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security**
 
