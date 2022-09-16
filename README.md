@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on [Crypto Currency Analyser and Broker Project](https://cryptorbix.com)
 
-- 🌱 I’m currently open for **startups**
+- 🔭 I’m currently working on [Transportation Management System](https://nakliyedefter.com)
 
-- 👯 I’m currently working on [Transportation Management System](https://nakliyedefter.com)
+- 🔭 I’m currently working on [Dentist Management System]
+
+- 🌱 I’m currently open for **startups**
 
 - 🤝 I also worked on [Online Therapy Platform](https://areekaweb.com)
 
