@@ -22,10 +22,12 @@
 - ♕ Hobby: Always open for a chess match in Ankara
 
 - 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security, linux, windows**
+- 
+- - 🕶️ I'm also a Bug Bounty Hunter
 
 - 📫 How to reach me **muratsanlisavas@gmail.com**
 
-- 🕶️ I'm also a Bug Bounty Hunter (earned more than 10k$)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
