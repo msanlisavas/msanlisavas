@@ -22,8 +22,8 @@
 - ♕ Hobby: Always open for a chess match in Ankara
 
 - 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security, linux, windows**
-- 
-- - 🕶️ I'm also a Bug Bounty Hunter
+
+- 🕶️ I'm also a Bug Bounty Hunter
 
 - 📫 How to reach me **muratsanlisavas@gmail.com**
 
