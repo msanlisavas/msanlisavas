@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently open for **startups**
 
-- 🤝 I also worked on [Online Therapy Platform](https://areekaweb.com)
+- 🤝 I also revived a dead project from scratch alone. Refactored the whole not working codebase. [Online Therapy Platform](https://areekaweb.com)
 
 - 📝 I regularly write articles on [https://itguytec.com](https://itguytec.com)
 
