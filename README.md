@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Transportation Management System](https://nakliyedefter.com)
 
 - 🔭 I’m currently working on open source [CoinMarketCapDotNet API Wrapper](https://github.com/msanlisavas/CoinMarketCapDotNet)
-- - 🔭 I’m currently working on [Era Guardian](https://eraguardian.com)
+- 🔭 I’m currently working on [Era Guardian](https://eraguardian.com)
 
 - 🌱 I’m currently open for **startups**
 
