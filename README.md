@@ -18,8 +18,6 @@
 
 - 🤝 I also revived a dead project from scratch alone. Refactored the whole not working codebase. [Online Therapy Platform](https://areekaweb.com)
 
-- 📝 I regularly write articles on [https://itguytec.com](https://itguytec.com)
-
 - ♕ Hobby: Always open for a chess match in Ankara
 
 - 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security, linux, windows**
