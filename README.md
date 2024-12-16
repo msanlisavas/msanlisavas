@@ -11,6 +11,10 @@
 
 - Cryptorbix | https://cryptorbix.com
 
+- Tarım Pozitif | https://tarimpozitif.com
+
+- Tarım Pozitif Portal | https://portal.tarimpozitif.com (soon)
+
 - Areeka Web | https://areekaweb.com
 
 - Sümerdent | https://sumerdent.com
