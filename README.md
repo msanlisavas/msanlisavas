@@ -13,7 +13,7 @@
 
 - Tarım Pozitif | https://tarimpozitif.com
 
-- Tarım Pozitif Portal | https://portal.tarimpozitif.com (soon)
+- Tarım Pozitif Portal | https://portal.tarimpozitif.com
 
 - Areeka Web | https://areekaweb.com
 
