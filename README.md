@@ -17,21 +17,23 @@
 
 - Areeka Web | https://areekaweb.com
 
+- Gaziantep Akıllı Ulaştırma Sistemleri | https://gausprojesi.com
+
+- Kanatçı Tarık BBQ | https://kanatcitarikbbq.com
+
+- WEglobal | https://weglobal.org
+
 - Sümerdent | https://sumerdent.com
 
 - Arena Nakliyat | https://arenanakliyat.com
 
-- Match Therapist | https://matchtherapist.com
+- Kolay Nakliyat | https://kolaynakliyat.com
   
 - Ekolsoft | https://ekolsoft.com
 
 - Zorunlu Afet Sigorta | https://zorunluafet.com
 
-- Ankara Evden Eve Nakliye | https://ankaraevdenevenakliye.org
 
-- Kanatçı Tarık BBQ | https://kanatcitarikbbq.com
-
-- WEglobal | https://weglobal.org
 
 - CoinMarketCapDotNet Wrapper
 
