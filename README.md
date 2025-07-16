@@ -33,6 +33,7 @@
 
 - Zorunlu Afet Sigorta | https://zorunluafet.com
 
+- Muradiye Mezunları Derneği | https://muradiye.org.tr
 
 
 - CoinMarketCapDotNet Wrapper
