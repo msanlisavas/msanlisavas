@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/muratsanlisavas" target="blank"><img src="https://img.shields.io/twitter/follow/muratsanlisavas?logo=twitter&style=for-the-badge" alt="muratsanlisavas" /></a> </p>
 
+- CSPR.Vote | https://cspr.vote
+
 - Era Guardian | https://eraguardian.com
 
 - Cryptorbix | https://cryptorbix.com
