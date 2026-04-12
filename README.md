@@ -48,9 +48,9 @@
 
 - 🤝 I also revived a dead project from scratch alone. Refactored the whole not working codebase. [Online Therapy Platform](https://areekaweb.com)
 
-- ♕ Hobby: Always open for a chess match in Ankara
+- ♕ Hobby: Always open for a chess match
 
-- 💬 Ask me about **c#, .net, javascript, jquery, ef, network, security, linux, windows**
+- 💬 Ask me about anything
 
 - 🕶️ I'm also a Bug Bounty Hunter
 
