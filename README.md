@@ -1,76 +1,80 @@
-<h1 align="center">Hi 👋, I'm Murat Sanlisavas</h1>
+<h1 align="center">Murat Şanlısavaş</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msanlisavas&label=Profile%20views&color=0e75b6&style=flat" alt="msanlisavas" /> </p>
+  <p align="center">
+    Full-stack engineer building regtech, on-chain governance, and competitive platforms.
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msanlisavas" alt="msanlisavas" /></a> </p>
+  <p align="center">
+    <a href="https://twitter.com/muratsanlisavas"><img src="https://img.shields.io/badge/-@muratsanlisavas-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/murat-şanlısavaş-7651a1142"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+  /></a>
+    <a href="mailto:muratsanlisavas@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.nuget.org/profiles/msanlisavas"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white" /></a>
+  </p>
+    <a href="https://github.com/msanlisavas/casper-mcp/pkgs/container/casper-mcp"><img
+  src="https://img.shields.io/badge/ghcr.io-casper--mcp-2496ED?logo=docker&logoColor=white" /></a>
+    <a href="https://chromewebstore.google.com/detail/kickinsights/nbaidimnboanjpinoffjpeildjoihhnh"><img
+  src="https://img.shields.io/chrome-web-store/users/nbaidimnboanjpinoffjpeildjoihhnh?label=KickInsights%20users&color=4285F4&logo=googlechrome&logoColor=white"
+  /></a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/muratsanlisavas" target="blank"><img src="https://img.shields.io/twitter/follow/muratsanlisavas?logo=twitter&style=for-the-badge" alt="muratsanlisavas" /></a> </p>
+  ---
 
-- Türkiye'nin Regülasyon Uyum Platformu | https://regvion.com
-- Rekabet (ELO Tabanlı Rekabet Platformu) | https://rekabet.app
+  ### Featured work
 
-- Era Raid (Web Based Onchain MMO RPG) | https://eraraid.com
-  
-- CSPR.Vote | https://cspr.vote
+  **[Regvion](https://regvion.com)** — Türkiye's regulatory compliance platform for enterprises. Shipped as three layers:
+  - **[regvion.com](https://regvion.com)** — marketing + onboarding
+  - **[portal.regvion.com](https://portal.regvion.com)** — workflow tool for running regulation processes
+  - **[api.regvion.com](https://api.regvion.com)** — multi-tenant REST API powering the portal and integrations
 
-- Era Guardian | https://eraguardian.com
+  **[CSPR.Vote](https://cspr.vote)** — Governance and voting infrastructure on Casper Network. Nakamoto-coefficient tracking, multi-option on-chain proposals, live
+   network-health dashboards.
 
-- Cryptorbix | https://cryptorbix.com
+  **[Era Raid](https://eraraid.com)** — Browser-based on-chain MMORPG. True asset ownership and a PvE/PvP economy settled fully on-chain.
 
-- Tarım Pozitif | https://tarimpozitif.com
+  **[Rekabet](https://rekabet.app)** — ELO-based ranking platform for any skill or game. Seasons, ladders, cross-domain leaderboards.
 
-- Tarım Pozitif Portal | https://portal.tarimpozitif.com
+  <details>
+  <summary>More projects</summary>
 
-- Areeka Web | https://areekaweb.com
+  - [Era Guardian](https://eraguardian.com) · [Cryptorbix](https://cryptorbix.com) · [Tarım Pozitif](https://tarimpozitif.com) ·
+  [Portal](https://portal.tarimpozitif.com)
+  - [Areeka (online therapy, revived solo from a dead codebase)](https://areekaweb.com)
+  - [GAUS — Gaziantep Smart Transportation](https://gausprojesi.com)
+  - [WEglobal](https://weglobal.org) · [Sümerdent](https://sumerdent.com) · [Ekolsoft](https://ekolsoft.com)
+  - [Arena Nakliyat](https://arenanakliyat.com) · [Kolay Nakliyat](https://kolaynakliyat.com) · [Kanatçı Tarık BBQ](https://kanatcitarikbbq.com)
+  - [Muradiye Mezunları Derneği](https://muradiye.org.tr)
 
-- Gaziantep Akıllı Ulaştırma Sistemleri | https://gausprojesi.com
+  </details>
 
-- Kanatçı Tarık BBQ | https://kanatcitarikbbq.com
+  ### Open-source
 
-- WEglobal | https://weglobal.org
+  - **[casper-mcp](https://github.com/msanlisavas/casper-mcp)** — MCP server giving any AI assistant on-chain access to Casper Network (accounts, blocks, deploys,
+  validators, contracts, NFTs). C#, stdio + SSE. Install via `dotnet tool install -g CasperMcp` or `docker pull ghcr.io/msanlisavas/casper-mcp`.
+  - **[KickInsights](https://github.com/msanlisavas/KickInsights)** — [Chrome
+  extension](https://chromewebstore.google.com/detail/kickinsights/nbaidimnboanjpinoffjpeildjoihhnh) that estimates real Kick.com viewer counts by intercepting
+  chat WebSockets and applying participation-rate modeling. Live on the Chrome Web Store.
+  - **[CSPR.Cloud.Net](https://github.com/msanlisavas/CSPR.Cloud.Net)** — .NET wrapper for the CSPR.Cloud API.
+  - **[CoinMarketCapDotNet](https://github.com/msanlisavas/CoinMarketCapDotNet)** — .NET wrapper for the CoinMarketCap API.
 
-- Sümerdent | https://sumerdent.com
+  ### Stack
 
-- Arena Nakliyat | https://arenanakliyat.com
+  **Backend** &nbsp;C# · .NET 9 · ASP.NET Core · ABP Framework · Entity Framework · Hangfire
+  **Data** &nbsp;PostgreSQL · SQL Server · Redis · RabbitMQ
+  **Frontend** &nbsp;TypeScript · JavaScript · Razor · Bootstrap · Chrome Extensions
+  **Infra** &nbsp;Azure · Docker · Linux · Git
+  **On-chain** &nbsp;Casper Network · Rust · Odra · CEP-18 · Model Context Protocol
 
-- Kolay Nakliyat | https://kolaynakliyat.com
-  
-- Ekolsoft | https://ekolsoft.com
+  ### Currently
 
-- Muradiye Mezunları Derneği | https://muradiye.org.tr
+  - Open to startup collaborations and consulting
+  - Bug bounty hunter on the side
+  - Always up for a chess match
 
+  <br />
 
-- CoinMarketCapDotNet Wrapper
-
-- CSPR.Cloud.Net Wrapper
-
-- 🌱 I’m currently open for **startups**
-
-- 🤝 I also revived a dead project from scratch alone. Refactored the whole not working codebase. [Online Therapy Platform](https://areekaweb.com)
-
-- ♕ Hobby: Always open for a chess match
-
-- 💬 Ask me about anything
-
-- 🕶️ I'm also a Bug Bounty Hunter
-
-- 📫 How to reach me **muratsanlisavas@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muratsanlisavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muratsanlisavas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/murat-şanlısavaş-7651a1142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratsanlisavas" height="30" width="40" /></a>
-<a href="https://instagram.com/muratsanlisavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muratsanlisavas" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msanlisavas&show_icons=true&locale=en&layout=compact" alt="msanlisavas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msanlisavas&show_icons=true&locale=en" alt="msanlisavas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msanlisavas&" alt="msanlisavas" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=msanlisavas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msanlisavas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="165" />
+  </p>
