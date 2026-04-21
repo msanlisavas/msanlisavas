@@ -4,19 +4,21 @@
     Full-stack engineer building regtech, on-chain governance, and competitive platforms.
   </p>
 
-  <p align="center">
-    <a href="https://twitter.com/muratsanlisavas"><img src="https://img.shields.io/badge/-@muratsanlisavas-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/murat-şanlısavaş-7651a1142"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
-  /></a>
-    <a href="mailto:muratsanlisavas@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.nuget.org/profiles/msanlisavas"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white" /></a>
-  </p>
-    <a href="https://github.com/msanlisavas/casper-mcp/pkgs/container/casper-mcp"><img
-  src="https://img.shields.io/badge/ghcr.io-casper--mcp-2496ED?logo=docker&logoColor=white" /></a>
-    <a href="https://chromewebstore.google.com/detail/kickinsights/nbaidimnboanjpinoffjpeildjoihhnh"><img
-  src="https://img.shields.io/chrome-web-store/users/nbaidimnboanjpinoffjpeildjoihhnh?label=KickInsights%20users&color=4285F4&logo=googlechrome&logoColor=white"
-  /></a>
-  </p>
+ <p align="center">
+  <a href="https://twitter.com/muratsanlisavas"><img src="https://img.shields.io/badge/-@muratsanlisavas-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/murat-şanlısavaş-7651a1142"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muratsanlisavas@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.nuget.org/profiles/msanlisavas"><img src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/msanlisavas/casper-mcp/pkgs/container/casper-mcp"><img src="https://img.shields.io/badge/ghcr.io-casper--mcp-2496ED?logo=docker&logoColor=white" /></a>
+  <a href="https://chromewebstore.google.com/detail/kickinsights/nbaidimnboanjpinoffjpeildjoihhnh"><img src="https://img.shields.io/chrome-web-store/users/nbaidimnboanjpinoffjpeildjoihhnh?label=KickInsights%20users&color=4285F4&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.nuget.org/packages/CSPR.Cloud.Net"><img src="https://img.shields.io/nuget/v/CSPR.Cloud.Net?logo=nuget&label=CSPR.Cloud.Net&color=004880" /></a>
+  <a href="https://www.nuget.org/packages/CSPR.Cloud.Net"><img src="https://img.shields.io/nuget/dt/CSPR.Cloud.Net?logo=nuget&label=downloads&color=004880" /></a>
+  <a href="https://www.nuget.org/packages/CoinMarketCapDotNet"><img src="https://img.shields.io/nuget/v/CoinMarketCapDotNet?logo=nuget&label=CoinMarketCapDotNet&color=004880" /></a>
+  <a href="https://www.nuget.org/packages/CoinMarketCapDotNet"><img src="https://img.shields.io/nuget/dt/CoinMarketCapDotNet?logo=nuget&label=downloads&color=004880" /></a>
+</p>
 
   ---
 
@@ -54,8 +56,8 @@
   - **[KickInsights](https://github.com/msanlisavas/KickInsights)** — [Chrome
   extension](https://chromewebstore.google.com/detail/kickinsights/nbaidimnboanjpinoffjpeildjoihhnh) that estimates real Kick.com viewer counts by intercepting
   chat WebSockets and applying participation-rate modeling. Live on the Chrome Web Store.
-  - **[CSPR.Cloud.Net](https://github.com/msanlisavas/CSPR.Cloud.Net)** — .NET wrapper for the CSPR.Cloud API.
-  - **[CoinMarketCapDotNet](https://github.com/msanlisavas/CoinMarketCapDotNet)** — .NET wrapper for the CoinMarketCap API.
+- **[CSPR.Cloud.Net](https://github.com/msanlisavas/CSPR.Cloud.Net)** — .NET wrapper for the CSPR.Cloud API. [![NuGet](https://img.shields.io/nuget/v/CSPR.Cloud.Net?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CSPR.Cloud.Net) [![Downloads](https://img.shields.io/nuget/dt/CSPR.Cloud.Net?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CSPR.Cloud.Net)
+- **[CoinMarketCapDotNet](https://github.com/msanlisavas/CoinMarketCapDotNet)** — .NET wrapper for the CoinMarketCap API. [![NuGet](https://img.shields.io/nuget/v/CoinMarketCapDotNet?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinMarketCapDotNet) [![Downloads](https://img.shields.io/nuget/dt/CoinMarketCapDotNet?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinMarketCapDotNet)
 
   ### Stack
 
