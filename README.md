@@ -18,6 +18,10 @@
   <a href="https://www.nuget.org/packages/CSPR.Cloud.Net"><img src="https://img.shields.io/nuget/dt/CSPR.Cloud.Net?logo=nuget&label=downloads&color=004880" /></a>
   <a href="https://www.nuget.org/packages/CoinMarketCapDotNet"><img src="https://img.shields.io/nuget/v/CoinMarketCapDotNet?logo=nuget&label=CoinMarketCapDotNet&color=004880" /></a>
   <a href="https://www.nuget.org/packages/CoinMarketCapDotNet"><img src="https://img.shields.io/nuget/dt/CoinMarketCapDotNet?logo=nuget&label=downloads&color=004880" /></a>
+  <a href="https://www.nuget.org/packages/CoinGecko.Api"><img
+  src="https://img.shields.io/nuget/v/CoinGecko.Api?logo=nuget&label=CoinGecko.Api&color=004880" /></a>
+    <a href="https://www.nuget.org/packages/CoinGecko.Api"><img
+  src="https://img.shields.io/nuget/dt/CoinGecko.Api?logo=nuget&label=downloads&color=004880" /></a>
 </p>
 
   ---
