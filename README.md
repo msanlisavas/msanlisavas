@@ -69,11 +69,12 @@
   - **[CoinGecko.Api.AiAgentHub.Mcp](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub.Mcp)** — MCP client for CoinGecko's hosted MCP servers; same tool-list shape for any IChatClient. [![NuGet](https://img.shields.io/nuget/vpre/CoinGecko.Api.AiAgentHub.Mcp?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub.Mcp) [![Downloads](https://img.shields.io/nuget/dt/CoinGecko.Api.AiAgentHub.Mcp?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub.Mcp)
   ### Stack
 
-  **Backend** &nbsp;C# · .NET 9 · ASP.NET Core · ABP Framework · Entity Framework · Hangfire
+  **Backend** &nbsp;C# · .NET 9 · ASP.NET Core · ABP Framework · Entity Framework · Hangfire · Native AOT
   **Data** &nbsp;PostgreSQL · SQL Server · Redis · RabbitMQ
-  **Frontend** &nbsp;TypeScript · JavaScript · Razor · Bootstrap · Chrome Extensions
-  **Infra** &nbsp;Azure · Docker · Linux · Git
-  **On-chain** &nbsp;Casper Network · Rust · Odra · CEP-18 · Model Context Protocol
+  **Frontend** &nbsp;TypeScript · JavaScript · Razor · Bootstrap · Chrome Extensions (MV3)
+  **AI / Agents** &nbsp;Microsoft.Extensions.AI · Model Context Protocol · Claude · OpenAI · Gemini · Ollama · Bedrock
+  **On-chain** &nbsp;Casper Network · Rust · Odra · CEP-18
+  **Infra** &nbsp;Azure · Docker · Linux · GitHub Actions · NuGet · MinVer · Git
 
   ### Currently
 
