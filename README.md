@@ -67,7 +67,8 @@
   - **[CoinGecko.Api.WebSockets](https://www.nuget.org/packages/CoinGecko.Api.WebSockets)** — streaming client for the beta WebSocket endpoint (coin prices, onchain tokens, DEX trades/OHLCV). [![NuGet](https://img.shields.io/nuget/vpre/CoinGecko.Api.WebSockets?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.WebSockets) [![Downloads](https://img.shields.io/nuget/dt/CoinGecko.Api.WebSockets?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.WebSockets)
   - **[CoinGecko.Api.AiAgentHub](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub)** — Microsoft.Extensions.AI function tools that drop CoinGecko capabilities into any IChatClient agent (OpenAI, Anthropic, Gemini, Ollama, Bedrock, …). [![NuGet](https://img.shields.io/nuget/vpre/CoinGecko.Api.AiAgentHub?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub) [![Downloads](https://img.shields.io/nuget/dt/CoinGecko.Api.AiAgentHub?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub)
   - **[CoinGecko.Api.AiAgentHub.Mcp](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub.Mcp)** — MCP client for CoinGecko's hosted MCP servers; same tool-list shape for any IChatClient. [![NuGet](https://img.shields.io/nuget/vpre/CoinGecko.Api.AiAgentHub.Mcp?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub.Mcp) [![Downloads](https://img.shields.io/nuget/dt/CoinGecko.Api.AiAgentHub.Mcp?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinGecko.Api.AiAgentHub.Mcp)
-  ## Stack
+
+## Stack
 
 **Backend** &nbsp;·&nbsp; C# · .NET · ASP.NET Core · ABP Framework · Entity Framework · Dapper · Hangfire · Native AOT · WCF · WebAPI · SignalR · gRPC
 
