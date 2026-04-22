@@ -62,10 +62,7 @@
   chat WebSockets and applying participation-rate modeling. Live on the Chrome Web Store.
 - **[CSPR.Cloud.Net](https://github.com/msanlisavas/CSPR.Cloud.Net)** — .NET wrapper for the CSPR.Cloud API. [![NuGet](https://img.shields.io/nuget/v/CSPR.Cloud.Net?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CSPR.Cloud.Net) [![Downloads](https://img.shields.io/nuget/dt/CSPR.Cloud.Net?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CSPR.Cloud.Net)
 - **[CoinMarketCapDotNet](https://github.com/msanlisavas/CoinMarketCapDotNet)** — .NET wrapper for the CoinMarketCap API. [![NuGet](https://img.shields.io/nuget/v/CoinMarketCapDotNet?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinMarketCapDotNet) [![Downloads](https://img.shields.io/nuget/dt/CoinMarketCapDotNet?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinMarketCapDotNet)
- - **[CoinGecko](https://github.com/msanlisavas/CoinGecko)** — .NET wrapper for the CoinGecko API, with WebSockets, AI
-  Agent Hub, and MCP companion packages. [![NuGet](https://img.shields.io/nuget/v/CoinGecko.Api?logo=nuget&label=nuget&c
-  olor=004880)](https://www.nuget.org/packages/CoinGecko.Api) [![Downloads](https://img.shields.io/nuget/dt/CoinGecko.Ap
-  i?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinGecko.Api)
+- **[CoinGecko](https://github.com/msanlisavas/CoinGecko)** — .NET wrapper for the CoinGecko API. [![NuGet](https://img.shields.io/nuget/v/CoinGecko.Api?logo=nuget&label=nuget&color=004880)](https://www.nuget.org/packages/CoinGecko.Api) [![Downloads](https://img.shields.io/nuget/dt/CoinGecko.Api?logo=nuget&label=downloads&color=004880)](https://www.nuget.org/packages/CoinGecko.Api)
   ### Stack
 
   **Backend** &nbsp;C# · .NET 9 · ASP.NET Core · ABP Framework · Entity Framework · Hangfire
