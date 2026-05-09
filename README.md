@@ -40,6 +40,8 @@
 
   **[Rekabet](https://rekabet.app)** — ELO-based ranking platform for any skill or game. Seasons, ladders, cross-domain leaderboards.
 
+  **[PromptHeist](https://promptheist.net)** — Prompt-reversal heist game. Each round drops an AI output and challenges players to reconstruct the secret prompt behind it.
+
   <details>
   <summary>More projects</summary>
 
